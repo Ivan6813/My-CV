@@ -21,7 +21,8 @@ Location: Minsk, Belarus
 •	Sass  
 •	Git  
 •	Npm  
-•	Figma  		
+•	Figma  
+•	Canvas  
 
 ### EDUCATION
 RS School “JavaScript/Frontend course”
@@ -36,7 +37,7 @@ English A2+ - I work with a tutor to improve my English.
 Experience gained at RS School
 At this course I gained basic knowledge of HTML, CSS and JavaScript. Learned how to create static layouts using Figma and PerfectPixel. Got experience with Flexbox, Git and npm. Have experienced working with DOM elements, Event object and Event delegation.
 
-My first static layout: https://rolling-scopes-school.github.io/ivan6813-JSFE2021Q1/wildlife/  (only desktop).
+My first static layout: https://rolling-scopes-school.github.io/ivan6813-JSFE2021Q1/wildlife/  (only desktop).  
 JavaScript projects:
 1.	Virtual piano: https://rolling-scopes-school.github.io/ivan6813-JSFE2021Q1/virtual-piano/
 2.	Photo filter: https://rolling-scopes-school.github.io/ivan6813-JSFE2021Q1/photo-filter/
@@ -49,6 +50,10 @@ At this course I`m creating a full-fledged website, using Frontend and Backend t
 2.	CSS: Sass, adaptive layout, css animation, BEM, svg, flexbox.
 3.	JavaScript: JavaScript ES6.
 
-By the end of this course I will have experience working with Node.js and MongoDB.
+By the end of this course I will have experience working with Node.js and MongoDB.  
+
+Self-study:  
+Tic-Tac-Toe game: https://ivan6813.github.io/Tic-Tac-Toe/  
+In making this game, I gained experience with canvas and strengthened my knowledge of JavaScript arrays.
 
 
