@@ -34,30 +34,30 @@ I worked at OAO “Naftan” (LLC “Naftan”) for 7 years as a senior operator
 -   Canvas 
 
 ### LANGUAGES
-**Russian – native**
+**Russian – native**    
 **English – A2+** - I work with a tutor to improve my English and also study Business English.
 
 ### COURSES
-**Clevertec Frontend Lab “Frontend development”**
+**Clevertec Frontend Lab “Frontend development”**    
 02.2022 - 04.2022
 
-**RS School “JavaScript/Frontend course”**
+**RS School “JavaScript/Frontend course”**    
 2021 - 2021 
 
 ### EDUCATION
-**NSVS of petrochemistry (Novopolotsk State Vocational School of petrochemistry)**
-Process unit operator 
+**NSVS of petrochemistry (Novopolotsk State Vocational School of petrochemistry)**    
+Process unit operator     
 2010 – 2013
 
 ### WORK EXPERIENCE
-**OAO «Naftan» (LLC «Naftan»)**
-Process unit operator 
+**OAO «Naftan» (LLC «Naftan»)**    
+Process unit operator     
 2013-2020
 
 ### MY PROJECTS 
-**Training-shop:** https://ivan6813.github.io/training-shop/ 
-**To Do List:** https://ivan6813.github.io/To-Do-List/ 
-**Quiz:** https://ivan6813.github.io/Quiz/ 
-**Weather-API:** https://ivan6813.github.io/Weather-API/ 
-**Test-Banner:** https://ivan6813.github.io/Test-Banner/build/ 
+**Training-shop:** https://ivan6813.github.io/training-shop/    
+**To Do List:** https://ivan6813.github.io/To-Do-List/    
+**Quiz:** https://ivan6813.github.io/Quiz/    
+**Weather-API:** https://ivan6813.github.io/Weather-API/    
+**Test-Banner:** https://ivan6813.github.io/Test-Banner/build/    
 **Tic-Tac-Toe game:** https://ivan6813.github.io/Tic-Tac-Toe/
